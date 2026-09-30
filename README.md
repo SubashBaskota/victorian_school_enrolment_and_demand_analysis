@@ -48,6 +48,8 @@ Wyndham         65,465               95,930           30,465
 Melton          36,742               64,670           27,929
 *See 'docs/phase4_business_strategy.md' for full recommendations
 
+[Phase 4 Business Strategy](docs/phase4_business_strategy.md)
+
 #Dashboard Preview
 ![Overview Page](dashboard/screenshots/overview_page.JPG)
 ![School Detail Page](dashboard/screenshots/school_detail_page.JPG)
