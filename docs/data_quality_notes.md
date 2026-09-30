@@ -55,7 +55,7 @@ This document has recorded the data quality issues, modelling decisions, termino
     Issue: Victorian School Capacity Analysis implied the project measures physical school capactiy directly
     Fix: Renamed to "Victorian School Enrolment and Demand Analysis" accurately reflecting the two data soruces with no overclaiming
 
-5. Knows Limitations
+5. Limitations
     - No official school capacity(building/classroom) data exists in any source file
     - Population projections apply LGA-wide age-band proportions and do not account for residential zoning and catchement boundaries
     - The VIF population projection release used by the automated pipeline(Sept 2023) is less precise(rounded to nearest 10) than the originally explored December 2023     release
