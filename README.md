@@ -18,7 +18,7 @@ SQL Server Database (sql_queries/analytics_queries.sql)
 Power BI Dashboard (dashboard/Victorian_School_Enrolment_and_Demand_Analysis.pbix)
 
 #Star Schema Diagram:
-
+![Star Schema Model](dashboard/screenshots/data_model.JPG)
 
 #Data Source
 https://discover.data.vic.au
@@ -49,11 +49,10 @@ Melton          36,742               64,670           27,929
 *See 'docs/phase4_business_strategy.md' for full recommendations
 
 #Dashboard Preview
-![Overview Page](../dashboard/screenshots/overview_page.jpg)
-![School Detail Page](../dashboard/screenshots/school_detail_page.jpg)
-![Data Detail Page](../dashboard/screenshots/data_details_page.jpg)
-![Star Schema Model](../dashboard/screenshots/data_model.jpg)
-
+![Overview Page](dashboard/screenshots/overview_page.JPG)
+![School Detail Page](dashboard/screenshots/school_detail_page.JPG)
+![Data Detail Page](dashboard/screenshots/data_details_page.JPG)
+![Star Schema Model](dashboard/screenshots/data_model.JPG)
 
 #Repository Structure
     Vic_School_ELT_and_ETL_Project/
